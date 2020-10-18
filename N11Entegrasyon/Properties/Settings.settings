@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="N11Entegrasyon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="N11Entegrasyon_UrunServis_ProductServicePortService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.n11.com/ws/productService/</Value>
+    </Setting>
+    <Setting Name="N11Entegrasyon_KategoriServis_CategoryServicePortService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.n11.com/ws/categoryService/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
